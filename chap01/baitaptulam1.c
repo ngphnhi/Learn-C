@@ -3,15 +3,15 @@
 
 int area_main(){
 //int main() {
-    float radius, area, circumference;
+    float radius, area, perimeter;
     printf("Enter radius of the circle");
     scanf("%f", &radius);
 
     area= PI * radius * radius;
-    circumference = 2 * PI * radius;
+    perimeter = 2 * PI * radius;
 
     printf("Area of the circle is: %.2f\n", area);
-    printf("Circumference of the circle is: %.2f\n", circumference);
+    printf("Perimeter of the circle is: %.2f\n", perimeter);
 
     return 0;
 }
