@@ -1,0 +1,27 @@
+# ninja log v5
+4	311	7343383483784204	CMakeFiles/untitled.dir/main.c.obj	7421567cd230ffa5
+2	91	7343541439717334	CMakeFiles/untitled.dir/chap01/vidu02.c.obj	b03c9f09ef63265f
+25	320	7343383483857665	CMakeFiles/untitled.dir/chap01/baitaptulam1.c.obj	9b5c3422b8632156
+51	115	7343584620333701	untitled.exe	20460962f98f328f
+11	319	7343383483773626	CMakeFiles/untitled.dir/chap02/vidu01.c.obj	2f1a3af1c8abc0ff
+15	319	7343383483790518	CMakeFiles/untitled.dir/chap01/vidu01.c.obj	aef85cb2f687cf72
+298	422	7343383485184804	CMakeFiles/untitled.dir/chap01/sm.c.obj	ab0ac78ab034f369
+29	297	7343383483815518	CMakeFiles/untitled.dir/chap01/baitap01.c.obj	5632311d8c9e4a0f
+305	415	7343383484968482	CMakeFiles/untitled.dir/chap01/baitaptulam2.c.obj	3a3f270f47285c6e
+4	250	7343540110368909	CMakeFiles/untitled.dir/chap01/baitapsession4.1.c.obj	ebcc7babe23fdf0a
+7	271	7343577632053828	CMakeFiles/untitled.dir/chap01/baitapsession4.2.c.obj	3fd7b6920ea41cdf
+3	62	7343583471891195	CMakeFiles/untitled.dir/chap01/baitapsession4.3.c.obj	149419e7f26ae86b
+2	50	7343584619712912	CMakeFiles/untitled.dir/chap01/baitapsession4.4.c.obj	6855babb17161a83
+13	190	7343682073191968	CMakeFiles/untitled.dir/chap01/baitapsession4.4.c.obj	6855babb17161a83
+3	90	7343683729882444	CMakeFiles/untitled.dir/chap01/baitapsession4.5.c.obj	ee2ac44e184fe472
+90	256	7343683731485704	untitled.exe	e90b727e11d49e1f
+2	93	7343684021473872	CMakeFiles/untitled.dir/chap01/baitapsession4.5.c.obj	ee2ac44e184fe472
+94	251	7343684023065405	untitled.exe	e90b727e11d49e1f
+4	79	7343684117544095	CMakeFiles/untitled.dir/chap01/baitapsession4.5.c.obj	ee2ac44e184fe472
+80	185	7343684118530945	untitled.exe	e90b727e11d49e1f
+2	86	7343684206056864	CMakeFiles/untitled.dir/chap01/baitapsession4.5.c.obj	ee2ac44e184fe472
+87	230	7343684207480391	untitled.exe	e90b727e11d49e1f
+2	307	7343689291253437	CMakeFiles/untitled.dir/chap01/baitapsession4.5.c.obj	ee2ac44e184fe472
+307	736	7343689295522049	untitled.exe	e90b727e11d49e1f
+3	85	7343689844653574	CMakeFiles/untitled.dir/chap01/baitapsession4.5.c.obj	ee2ac44e184fe472
+86	188	7343689845643748	untitled.exe	e90b727e11d49e1f
